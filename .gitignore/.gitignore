@@ -1,6 +1,8 @@
-./eclipseManual.aux
-./eclipseManual.fdb_latexmk
-./eclipseManual.fls
-./eclipseManual.log
-./eclipseManual.out
-./eclipseManual.synctex.gz
+eclipseManual.aux
+eclipseManual.fdb_latexmk
+eclipseManual.fls
+eclipseManual.log
+eclipseManual.out
+eclipseManual.synctex.gz
+index.htm
+eclipse-menu.htm
